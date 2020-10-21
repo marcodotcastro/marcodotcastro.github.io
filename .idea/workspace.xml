@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a004ff44-91e2-4286-bcf2-b74c888c7335" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jBQvohwTD7LI9W25uaYW6mupiT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="jekyll" type="CommandRunConfigurationType" factoryName="Gem Command">
+      <module name="marcodotcastro.github.io" />
+      <COMMAND_RUN_CONFIGURATION NAME="RUBY_ARGS" VALUE="" />
+      <COMMAND_RUN_CONFIGURATION NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <COMMAND_RUN_CONFIGURATION NAME="SHOULD_USE_SDK" VALUE="true" />
+      <COMMAND_RUN_CONFIGURATION NAME="ALTERN_SDK_NAME" VALUE="RVM: ruby-2.6.6" />
+      <COMMAND_RUN_CONFIGURATION NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="GEM_NAME" VALUE="jekyll" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_NAME" VALUE="jekyll" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_ARGS" VALUE="serve --watch" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="WORKING_DIR" VALUE="$MODULE_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a004ff44-91e2-4286-bcf2-b74c888c7335" name="Default Changelist" comment="" />
+      <created>1603275238736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603275238736</updated>
+      <workItem from="1603275239993" duration="2583000" />
+      <workItem from="1603277830356" duration="129000" />
+      <workItem from="1603277962536" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="190" width="1265" height="795" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603277987119">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2334" y="190" width="1265" height="795" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1041/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603277987119" />
+    <state width="1860" height="312" key="GridCell.Tab.0.bottom" timestamp="1603277976781">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1041/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603277976781" />
+    <state width="1860" height="312" key="GridCell.Tab.0.center" timestamp="1603277976781">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="312" key="GridCell.Tab.0.center/0.0.1920.1041/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603277976781" />
+    <state width="1860" height="312" key="GridCell.Tab.0.left" timestamp="1603277976781">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="312" key="GridCell.Tab.0.left/0.0.1920.1041/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603277976781" />
+    <state width="1860" height="312" key="GridCell.Tab.0.right" timestamp="1603277976781">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="312" key="GridCell.Tab.0.right/0.0.1920.1041/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603277976781" />
+    <state width="1860" height="312" key="GridCell.Tab.1.bottom" timestamp="1603277825886">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="312" key="GridCell.Tab.1.bottom/0.0.1920.1041/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603277825886" />
+    <state width="1860" height="312" key="GridCell.Tab.1.center" timestamp="1603277825886">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="312" key="GridCell.Tab.1.center/0.0.1920.1041/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603277825886" />
+    <state width="1860" height="312" key="GridCell.Tab.1.left" timestamp="1603277825886">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="312" key="GridCell.Tab.1.left/0.0.1920.1041/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603277825886" />
+    <state width="1860" height="312" key="GridCell.Tab.1.right" timestamp="1603277825886">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="312" key="GridCell.Tab.1.right/0.0.1920.1041/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603277825886" />
+    <state x="2409" y="129" width="931" height="819" key="RollbackChangesDialog" timestamp="1603275522723">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2409" y="129" width="931" height="819" key="RollbackChangesDialog/0.0.1920.1041/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603275522723" />
+    <state x="2282" y="86" key="SettingsEditor" timestamp="1603277919750">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2282" y="86" key="SettingsEditor/0.0.1920.1041/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603277919750" />
+    <state x="2469" y="171" width="1098" height="778" key="find.popup" timestamp="1603277901909">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2469" y="171" width="1098" height="778" key="find.popup/0.0.1920.1041/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603277901909" />
+    <state x="2459" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1603277187293">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2459" y="45" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1041/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603277187293" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/marcodotcastro_github_io@jekyll.rcov" NAME="jekyll Coverage Results" MODIFIED="1603277976556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="marcodotcastro.github.io" />
+  </component>
+</project>
